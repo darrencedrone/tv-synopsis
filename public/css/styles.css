@@ -1,0 +1,43 @@
+
+body {
+  background-color: white;
+  color: black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 75%;
+}
+
+th {
+  border: 1px solid black;
+  background-color: #3399ff;
+  color: white;
+  font-size: 28px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid black;
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+}
+
+.number {
+  width: 10%;
+}
+
+.title {
+  width: 60%;
+}
+
+.director {
+  width: 30%;
+}
+
+.synopsis {
+  width: 100%;
+}
